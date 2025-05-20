@@ -392,7 +392,7 @@ analyzeBtn.addEventListener('click', async () => {
   summary.innerHTML = `
     <p><strong>ファイル数：</strong>${files.length}</p>
     <p><strong>総容量：</strong>${(totalSize / 1024).toFixed(2)} KB</p>
-    <p><strong>言語検出：</strong></p>
+    <p><strong>言語（拡張子）検出：</strong></p>
     <ul>
       ${Object.entries(langCount).map(([lang, count]) =>
         `<li>${lang}: ${count}個</li>`
