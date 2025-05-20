@@ -26,3 +26,7 @@ what-language/
 ├── script.js          # ロジック（言語判定・危険検出）
 ├── favicon.ico        # ファビコン画像
 └── README.md          # 本ファイル
+
+## サポートサーバーに参加！
+
+https://discord.gg/8V4xjZ9ZHB
