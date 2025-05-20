@@ -2,7 +2,7 @@
 
 ![What language picture](https://media.discordapp.net/attachments/1373928409775869962/1374390536005226547/2025-05-20_231037.png?ex=682de06e&is=682c8eee&hm=3e3fd39d44c4231a8d5f732865f27c59f33e41df42561fe3b14a8e8958856f8b&=&format=webp&quality=lossless&width=1658&height=859)
 
-**What-language** は、アップロードまたは貼り付けられたソースコードからファイルの詳細・プログラミング言語・拡張子を判別し、リスクのあるコードパターンも検出するWebツールです。
+**What-language** は、アップロードまたは貼り付けられたファイルからファイルの詳細・プログラミング言語・拡張子を判別し、分類してリストとして表示したり、リスクのあるコードパターンも検出するWebツールです。
 
 ## サポートサーバーに参加！
 
