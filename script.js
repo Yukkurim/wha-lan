@@ -403,13 +403,13 @@ analyzeBtn.addEventListener('click', async () => {
   if (dangerHits.length > 0) {
     dangerList.innerHTML = `
       <div class="danger">
-        <strong>不審なコードパターンを検出：</strong>
+        <strong>リスクのあるコードパターンを検出：</strong>
         <ul>
           ${dangerHits.map(p => `<li><code>${p}</code></li>`).join("")}
         </ul>
       </div>
     `;
   } else {
-    dangerList.innerHTML = `<p>不審なコードは特に検出されませんでした。</p>`;
+    dangerList.innerHTML = `<p>リスクのあるコードは特に検出されませんでした。</p>`;
   }
 });
